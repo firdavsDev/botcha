@@ -1,0 +1,5 @@
+python-telegram-bot
+pathlib
+requests==2.25.1
+Pillow==8.2.0
+gspread==3.7.0
