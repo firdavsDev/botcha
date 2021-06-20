@@ -1,4 +1,5 @@
 import re
+import random
 from typing import Text
 from six import text_type
 from telegram import Update, ReplyKeyboardMarkup #pip install python-telegram-bot
